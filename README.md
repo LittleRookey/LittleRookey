@@ -1,7 +1,9 @@
 ### Hi there 👋
 ### Projects line up
+🔭 I’m currently working on a multiplayer Coop Game. 01/03/2022 ~ now
 <!--
 **LittleRookey/LittleRookey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
