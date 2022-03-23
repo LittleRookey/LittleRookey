@@ -4,7 +4,7 @@
 
 Design document: https://docs.google.com/document/d/10Xsg9ur43zHzyJs22Gm8seJXlD5xo6JDoehjzu9vkRE/edit
 
-My website: https://littlerookey.github.io/hjkim/
+My website: [littlerookey.github.io/hjkim/](littlerookey.github.io/hjkim/)
 
 
 <!--
