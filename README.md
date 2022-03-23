@@ -3,7 +3,8 @@
 🔭 I’m currently working on a multiplayer Coop Game. 01/08/2022 ~ now
 
 Design document: https://docs.google.com/document/d/10Xsg9ur43zHzyJs22Gm8seJXlD5xo6JDoehjzu9vkRE/edit
-My website: littlerookey.github.io/hjkim/
+
+My website: https://littlerookey.github.io/hjkim/
 
 
 <!--
