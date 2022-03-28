@@ -4,6 +4,8 @@
 
 Design document: https://docs.google.com/document/d/10Xsg9ur43zHzyJs22Gm8seJXlD5xo6JDoehjzu9vkRE/edit
 
+Script: https://github.com/LittleRookey/MultiplayerCoopScripts(https://github.com/LittleRookey/MultiplayerCoopScripts)
+
 My website: [littlerookey.github.io/hjkim/](https://littlerookey.github.io/HJKim/index.html)
 
 
