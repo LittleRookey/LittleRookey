@@ -12,7 +12,7 @@
 
 ## &#x1f4c8; GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleRookey)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats]("https://github-readme-stats.vercel.app/api/top-langs/?username=LittleRookey&hide=java,html,ShaderLab&theme=radical&line_height=27" alt="Anurag's github stats")
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LittleRookey)](https://github.com/anuraghazra/github-readme-stats)
 
 
