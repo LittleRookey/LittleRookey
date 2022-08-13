@@ -4,6 +4,7 @@
   - `Unity Engine`
   - `C#`
   - `Python`
+  - 'C++'
 
 - Blog : <https://litkeystudio.tistory.com/>
 
