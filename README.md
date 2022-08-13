@@ -1,6 +1,19 @@
-🔭 ...
+## Game Programmer, Game Developer
 
-My website: [littlerookey.github.io/hjkim/](https://littlerookey.github.io/HJKim/index.html)
+- 🌱
+  - `Unity Engine`
+  - `C#`
+  - `Python`
+
+- Blog : <https://litkeystudio.tistory.com/>
+
+<br>
+
+## &#x1f4c8; GitHub Stats
+
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rito15&hide=java,html,ShaderLab&theme=radical&line_height=27" alt="Anurag's github stats" />  &nbsp;  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rito15&show_icons=true&theme=radical&line_height=27" alt="Anurag's github stats" />
+</p> 
 
 
 <!--
