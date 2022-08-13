@@ -5,6 +5,7 @@
   - `C#`
   - `Python`
   - `C++`
+  - `C`
 
 - Blog : <https://litkeystudio.tistory.com/>
 
