@@ -1,4 +1,4 @@
-## Game Programmer, Game Developer
+## Game Programmer, Game Developer, Software Engineer
 
 - 🌱
   - `Unity Engine`
