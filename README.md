@@ -14,7 +14,7 @@
 ## &#x1f4c8; GitHub Stats
 
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LittleRookey&hide=java,html,GLSL,HLSL,C++,ShaderLab&theme=gruvbox_light&line_height=20" alt="Anurag's github stats" />  &nbsp;  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LittleRookey&show_icons=true&theme=gruvbox_light&line_height=20" alt="Anurag's github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LittleRookey&hide=java,html,GLSL,HLSL,C,CPlusPlus,ShaderLab&theme=gruvbox_light&line_height=20" alt="Anurag's github stats" />  &nbsp;  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LittleRookey&show_icons=true&theme=gruvbox_light&line_height=20" alt="Anurag's github stats" />
 </p> 
 
 
